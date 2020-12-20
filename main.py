@@ -47,7 +47,7 @@ celcius_label.grid(row=2, column=1, padx=2, pady=2)
 celcius_value.grid(row=2, column=2, padx=2, pady=2)
 weather_label.grid(row=3, column=1, padx=2, pady=2)
 weather_value.grid(row=3, column=2, padx=2, pady=2)
-
+# comment end
 
 print(ip_entry.get())
 
