@@ -1,7 +1,7 @@
 import requests
 
 URL = "https://api.openweathermap.org/data/2.5/onecall"
-API_KEY = "9939b09eba922f03e95fbe11bcbda821"
+API_KEY = "api"
 
 
 class WeatherControl():
